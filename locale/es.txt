@@ -171,4 +171,4 @@ HTMLText_EA4506F7_FDA0_5CF1_41C2_BF883C7259BF.html = <div style="text-align:left
 ### Descripción
 
 ### Título
-tour.name = CASA YAGUL
+tour.name = CASA SENDAS
